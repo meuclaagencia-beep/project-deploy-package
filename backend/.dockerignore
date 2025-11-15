@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Database
+instance/*.db
+instance/*.sqlite
+instance/*.sqlite3
+
+# Uploads
+uploads/
+*.mp3
+*.wav
+*.mp4
+*.webm
+
+# Backups
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
